@@ -1,5 +1,3 @@
----
-
 #### tests/test_concatenar.py
 ```python
 import pytest
