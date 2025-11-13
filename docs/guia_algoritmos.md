@@ -57,3 +57,47 @@ Este guia descreve os algoritmos implementados, suas entradas/saídas e como o G
    python -m venv venv
    source venv/bin/activate   # Linux/Mac
    venv\Scripts\activate      # Windows
+
+
+  
+
+
+
+---
+
+**2. Instale dependências:**
+   `bash
+   pip install -r requirements.txt
+   `
+
+**3. Execute scripts:**
+   `bash
+   python src/concatenar_dados.py
+   python src/repetir_textos.py
+   python src/operacoes_matematicas.py
+   python src/verificarparimpar.py
+   python src/calcular_media.py
+   python src/verificar_palindromo.py
+   `
+
+**4. Rode testes:**
+   `bash
+   pytest -q
+   `
+
+---
+
+**Dicas com GitHub Codespaces e Copilot**
+
+- Inicie um Codespace no repositório para ambiente pronto com Python.
+- Use o Copilot para:
+  - Esboçar funções e docstrings.
+  - Propor validações e tratamento de erros.
+  - Gerar testes unitários e cenários de borda.
+- Faça commits pequenos e mensagens claras para rastrear seu raciocínio técnico.
+
+---
+
+
+
+   
