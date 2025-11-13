@@ -8,9 +8,13 @@
 
 ---
 
-Utilizando Ferramentas do GitHub para Solucionar Algoritmos em Python
+---
+
+🐍 Utilizando Ferramentas do GitHub para Solucionar Algoritmos em Python
 
 ![CI - Testes Automatizados](https://github.com/Santosdevbjj/utilizaFerramentasGitHub/actions/workflows/python-tests.yml)
+
+
 
 ---
 
