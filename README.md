@@ -8,9 +8,19 @@
 
 ---
 
+**DESCRIÇÃO:**
+
+Nesta prática, iremos utilizar o GitHub Copilot e GitHub Codespaces para criar e solucionar algoritmos em Python.
+
+Veremos o poder da utilização do Copilot para nos auxiliar nos estudos e, claro, aplicá-lo para ajudar na codificação, tratamento de erros durante nossos projetos e até mesmo para ajudar na documentação de projetos.
+
+Para completar, vamos utilizar o Codespaces, um ambiente de desenvolvimento na nuvem oferecido pelo GitHub.
+
+
+
 ---
 
-🐍 Utilizando Ferramentas do GitHub para Solucionar Algoritmos em Python
+🐍 **Ferramentas do GitHub para Solucionar Algoritmos em Python**
 
 ![CI - Testes Automatizados](https://github.com/Santosdevbjj/utilizaFerramentasGitHub/actions/workflows/python-tests.yml)
 
