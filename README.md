@@ -20,7 +20,7 @@ Para completar, vamos utilizar o Codespaces, um ambiente de desenvolvimento na n
 
 ---
 
-🐍 **Ferramentas do GitHub para Solucionar Algoritmos em Python**
+•  **Ferramentas do GitHub para Solucionar Algoritmos em Python**
 
 ![CI - Testes Automatizados](https://github.com/Santosdevbjj/utilizaFerramentasGitHub/actions/workflows/python-tests.yml)
 
