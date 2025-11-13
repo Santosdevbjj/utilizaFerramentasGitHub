@@ -1,5 +1,5 @@
 # tests/test_concatenar.py
-```python
+# python
 import pytest
 from src.concatenar_dados import concatenar
 
